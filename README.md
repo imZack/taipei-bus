@@ -12,6 +12,13 @@ Installation
 npm install taipei-bus
 ```
 
+Format
+------
+- name **String** Stop name
+- direction **Int** 0=go, 1=back
+- buses **Array** 
+- status **String** {末班已過, 進站中, X分}
+
 
 Usage
 -----
