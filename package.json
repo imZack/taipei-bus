@@ -1,6 +1,6 @@
 {
   "name": "taipei-bus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a simple parser for parsing 5284.com.tw (Taipei bus information).",
   "main": "index.js",
   "scripts": {
