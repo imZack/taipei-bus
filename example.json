@@ -1,0 +1,514 @@
+{
+	"bus": "642",
+  "go": [
+    {
+      "name": "調度站青潭站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "青潭(新烏)",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "青潭(北宜)",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "青潭(一)",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "新店國小",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "文山國中",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "碧潭",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運新店站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "碧潭橋頭",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "檳榔路",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運新店區公所站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "七張",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運七張站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "新店郵局",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "大坪林",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運大坪林站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "滬江中學",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運景美站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "三福街口",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "萬隆",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運萬隆站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "武功國小(羅斯福)",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "師大分部",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運公館站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "臺大",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "臺大綜合體育館",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "龍安國小(公務人力發展中心)",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "金華新生路口",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "信義新生路口",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "仁愛新生路口",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運忠孝新生站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "光華商場",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "長安松江路口",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運松江南京站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "長春松江路口",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運行天宮站",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "行天宮",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "新生公園(林安泰)",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "臺北魚市",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "第二果菜市場",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "下埤里",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "復興北村",
+      "direction": 0,
+      "buses": [],
+      "status": "末班已過"
+    }
+  ],
+  "back": [
+    {
+      "name": "五常街口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "民權龍江路口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "民權建國路口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "民權松江路口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運行天宮站",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "長春松江路口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運松江南京站",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "長安松江路口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "光華商場",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運忠孝新生站",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "仁愛新生路口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "信義新生路口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "金華新生路口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "和平新生路口",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "龍安國小(公務人力發展中心)",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "臺大綜合體育館",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "臺大",
+      "direction": 1,
+      "buses": [],
+      "status": "末班已過"
+    },
+    {
+      "name": "捷運公館站",
+      "direction": 1,
+      "buses": [
+        "498-FM"
+      ],
+      "status": "末班已過"
+    },
+    {
+      "name": "師大分部",
+      "direction": 1,
+      "buses": [],
+      "status": "將到站"
+    },
+    {
+      "name": "武功國小(羅斯福)",
+      "direction": 1,
+      "buses": [],
+      "status": "將到站"
+    },
+    {
+      "name": "捷運萬隆站",
+      "direction": 1,
+      "buses": [],
+      "status": "4分"
+    },
+    {
+      "name": "萬隆",
+      "direction": 1,
+      "buses": [],
+      "status": "4分"
+    },
+    {
+      "name": "三福街口",
+      "direction": 1,
+      "buses": [],
+      "status": "5分"
+    },
+    {
+      "name": "捷運景美站",
+      "direction": 1,
+      "buses": [],
+      "status": "7分"
+    },
+    {
+      "name": "滬江中學",
+      "direction": 1,
+      "buses": [
+        "151-FU",
+        "153-FU"
+      ],
+      "status": "進站中"
+    },
+    {
+      "name": "捷運大坪林站",
+      "direction": 1,
+      "buses": [],
+      "status": "將到站"
+    },
+    {
+      "name": "大坪林",
+      "direction": 1,
+      "buses": [],
+      "status": "將到站"
+    },
+    {
+      "name": "新店郵局",
+      "direction": 1,
+      "buses": [],
+      "status": "將到站"
+    },
+    {
+      "name": "捷運七張站",
+      "direction": 1,
+      "buses": [],
+      "status": "3分"
+    },
+    {
+      "name": "七張",
+      "direction": 1,
+      "buses": [],
+      "status": "4分"
+    },
+    {
+      "name": "捷運新店區公所站",
+      "direction": 1,
+      "buses": [],
+      "status": "6分"
+    },
+    {
+      "name": "檳榔路",
+      "direction": 1,
+      "buses": [],
+      "status": "7分"
+    },
+    {
+      "name": "碧潭橋頭",
+      "direction": 1,
+      "buses": [],
+      "status": "8分"
+    },
+    {
+      "name": "捷運新店站",
+      "direction": 1,
+      "buses": [],
+      "status": "9分"
+    },
+    {
+      "name": "碧潭",
+      "direction": 1,
+      "buses": [],
+      "status": "11分"
+    },
+    {
+      "name": "文山國中",
+      "direction": 1,
+      "buses": [],
+      "status": "11分"
+    },
+    {
+      "name": "新店國小",
+      "direction": 1,
+      "buses": [
+        "147-FU"
+      ],
+      "status": "進站中"
+    },
+    {
+      "name": "青潭(一)",
+      "direction": 1,
+      "buses": [],
+      "status": "將到站"
+    },
+    {
+      "name": "南青宮",
+      "direction": 1,
+      "buses": [
+        "149-FU"
+      ],
+      "status": "進站中"
+    },
+    {
+      "name": "青潭(新烏)",
+      "direction": 1,
+      "buses": [],
+      "status": "將到站"
+    },
+    {
+      "name": "終點站青潭",
+      "direction": 1,
+      "buses": [],
+      "status": "將到站"
+    }
+  ]
+}
