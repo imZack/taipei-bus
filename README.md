@@ -17,18 +17,24 @@ Format
 - name **String** Stop name
 - direction **Int** 0=go, 1=back
 - buses **Array** 
-- status **String** {末班已過, 進站中, X分}
+- status **String** {X分 > 將到站 > 進站中 > 末班已過}
 
 
 Usage
 -----
 
-**bus(busNo, callback(data))**
+**bus(busNo, callback(error, data))**
 
 ```
 var bus = require("taipei-bus");
 
-bus("642", function(data) {
+bus("642", function(error, data) {
+  if (error != null) { /* if error */
+    console.log(error);
+    console.log(data);
+    return;
+  }
+
   console.log(data);
   /*
   Check out sample.json for complete data.
