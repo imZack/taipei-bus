@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/imZack/taipei-bus/issues"
   },
-  "homepage": "https://github.com/imZack/taipei-bus"
+  "homepage": "https://github.com/imZack/taipei-bus",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.40.0"
+  }
 }
