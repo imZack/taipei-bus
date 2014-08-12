@@ -17,15 +17,26 @@ http.createServer(function (req, res) {
   	return;
   }
 
-  bus(query.bus, function(err, data) {
-  	if (err) {
-  		res.writeHead(500);
-  		res.end("Internal Error");
-  		return;
-  	}
-
-  	res.writeHead(200, {'Content-Type': 'application/json'});
-  	res.end(JSON.stringify(data));
+  var buses = query.bus.split(",");
+  var task = buses.length;
+  var result = [];
+  buses.forEach(function(busNo) {
+    bus(busNo, function(err, data) {
+      task--;
+      if (err) {
+        result.push({
+          name: busNo,
+          status: "無法取得資料"
+        });
+      } else {
+        result.push(data);
+      }
+      
+      if(task === 0) {
+        res.writeHead(200, {'Content-Type': 'application/json'});
+        res.end(JSON.stringify(result));
+      }
+    });
   });
 }).listen(1337, '127.0.0.1');
 
