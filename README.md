@@ -1,4 +1,4 @@
-taipei-bus
+taipei-bus [![NPM version](https://badge.fury.io/js/taipei-bus.svg)](http://badge.fury.io/js/taipei-bus)
 ==========
 
 :exclamation::exclamation::exclamation: WARNING :exclamation::exclamation::exclamation:
