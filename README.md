@@ -104,6 +104,10 @@ bus("642", function(error, data) {
 
 ```
 
+Example
+-------
+Please checkout example dir for more details.
+
 
 License
 -------
