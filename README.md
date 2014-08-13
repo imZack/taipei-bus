@@ -23,7 +23,9 @@ Format
 Usage
 -----
 
-**bus(busNo, callback(error, data))**
+**bus(busNo[, lang], callback(error, data))**
+
+By default, `lang=english` it will translate all chinese to [pinyin](http://spmjs.io/docs/pinyin/). This feature is for pebble watch not supporting UTF-8's workaround.
 
 ```
 var bus = require("taipei-bus");
