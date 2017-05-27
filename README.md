@@ -1,6 +1,11 @@
 taipei-bus [![NPM version](https://badge.fury.io/js/taipei-bus.svg)](http://badge.fury.io/js/taipei-bus)
 ==========
 
+### Finally we have traffic realtime data without any "Application forms"
+### Check this out! https://taipeicity.github.io/traffic_realtime/
+
+---
+
 :exclamation::exclamation::exclamation: WARNING :exclamation::exclamation::exclamation:
 
 This is just for **prototyping** or **personal use**, if you want to use in `production` you have to [APPLY for OFFICIAL API](http://www.dot.taipei.gov.tw/ct.asp?xItem=3167481&CtNode=44829&mp=117001)
